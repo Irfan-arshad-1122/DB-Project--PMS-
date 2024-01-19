@@ -1,0 +1,64 @@
+E:\Pharmacy System\DB Project (PMS)\bin\Debug\DB Project (PMS).exe.config
+E:\Pharmacy System\DB Project (PMS)\bin\Debug\DB Project (PMS).exe
+E:\Pharmacy System\DB Project (PMS)\bin\Debug\DB Project (PMS).pdb
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB Project (PMS).csproj.AssemblyReference.cache
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB Project (PMS).csproj.SuggestedBindingRedirects.cache
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Login.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Properties.Resources.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB Project (PMS).csproj.GenerateResource.cache
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB Project (PMS).csproj.CoreCompileInputs.cache
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB Project (PMS).csproj.CopyComplete
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB Project (PMS).exe
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB Project (PMS).pdb
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Admin.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.NewFolder1.A_Dashboard_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Adduser_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.NewFolder1.Viewuser_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.NewFolder1.profile_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Pharmacist.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Pharma_UC.p_dashboard_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Pharma_UC.Addmed_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Pharma_UC.viewmed_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Pharma_UC.modifymed_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Pharma_UC.Medvalidity_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Supplier.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Profile.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.NewFolder1.profileupdate_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Supplier_UC.viewsupp_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Supplier_UC.addsup_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Supplier_UC.updatesup_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Pharma_UC.Sell_Med_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Security_Questions.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\bin\Debug\DB Project (PMS).exe.config
+E:\Pharmacy System\DB Project (PMS) - Copy\bin\Debug\DB Project (PMS).exe
+E:\Pharmacy System\DB Project (PMS) - Copy\bin\Debug\DB Project (PMS).pdb
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB Project (PMS).csproj.AssemblyReference.cache
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB Project (PMS).csproj.SuggestedBindingRedirects.cache
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Adduser_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Admin.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Login.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.NewFolder1.A_Dashboard_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.NewFolder1.profileupdate_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.NewFolder1.profile_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.NewFolder1.Viewuser_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Pharmacist.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Pharma_UC.Addmed_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Pharma_UC.Medvalidity_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Pharma_UC.modifymed_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Pharma_UC.p_dashboard_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Pharma_UC.Sell_Med_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Pharma_UC.viewmed_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Profile.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Properties.Resources.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Security_Questions.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Supplier.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Supplier_UC.addsup_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Supplier_UC.updatesup_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB_Project__PMS_.Supplier_UC.viewsupp_UC.resources
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB Project (PMS).csproj.GenerateResource.cache
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB Project (PMS).csproj.CoreCompileInputs.cache
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB Project (PMS).csproj.CopyComplete
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB Project (PMS).exe
+E:\Pharmacy System\DB Project (PMS) - Copy\obj\Debug\DB Project (PMS).pdb
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.View_Sales_UC.resources
+E:\Pharmacy System\DB Project (PMS)\obj\Debug\DB_Project__PMS_.Sales.resources
